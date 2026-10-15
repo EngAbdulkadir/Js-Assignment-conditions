@@ -1,1 +1,3 @@
-#This is my first project assignment in js course conditions assignments i use html to make function calling
+# JS CONDITIONS ASSIGNMENT
+# THIS IS MY FIRST ASSIGNMENT IN JS COURSE 
+# ITS CONDITIONS LESSONS THIS ASSIGNMENT I WILL COVER 20 PROGRAMS USING IF/ELSE IF/NESTED+SWITCH CASE
