@@ -10,7 +10,7 @@
 5.When he make the input the conditions checks and return output to the user
 ## 1.IF PROGRAMS 
 
-1.Age Mature check 
+1.Age Mature check <br>
 2.Exam Passed:Checks if student passed the exam
 3.Sim check:Sim card key check what sim you have if there one value sim card provider condition
 4.Hot Weather: checks if the weather is hot only
